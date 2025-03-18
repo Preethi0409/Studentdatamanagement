@@ -10,3 +10,4 @@ Take Input from the user.
 Calculate Total marks and percentage.
 Store the data in CSV.
 Display the data of student with respect to register number.
+.
